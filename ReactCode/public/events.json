@@ -3,21 +3,21 @@
     "year": 1998,
     "title": "International Space Station",
     "description": "The first modules of the ISS are launched.",
-    "imageURL": "ISS.jpg",
+    "imageURL": "/ISS.jpg",
     "category": "Space Station"
   },
   {
     "year": 2004,
     "title": "First Private Spaceflight",
     "description": "SpaceShipOne completes the first private human spaceflight.",
-    "imageURL": "SpaceShipOne.jpg",
+    "imageURL": "/SpaceShipOne.jpg",
     "category": "Private Mission"
   },
   {
     "year": 2021,
     "title": "Perseverance Rover Lands on Mars",
     "description": "NASA's rover begins exploring the Jezero Crater on Mars.",
-    "imageURL": "Perseverance.jpg",
+    "imageURL": "/Perseverance.jpg",
     "category": "Mars Mission"
   }
 ]
